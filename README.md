@@ -31,18 +31,7 @@ Embedded systems (Raspberry Pi, sensors, servos, RFID) • REST APIs • Data An
 
 ---
 
-## 📌 Featured Projects
 
-- **X — Smart Job Search Platform**  
-  Spring Boot backend + APIs + modular architecture. Helps job seekers find offers intelligently.  
-
-- **Embedded System Gate Controller**  
-  Raspberry Pi + RFID + fingerprint sensor + 3D-printed design (Catia).  
-
-- **Product Management TP (Java + Maven + JUnit)**  
-  CRUD operations, CI/CD pipelines, unit testing, GitLab MRs.  
-
----
 
 ## 🏅 Certifications
 
