@@ -44,18 +44,12 @@ Embedded systems (Raspberry Pi, sensors, servos, RFID) • REST APIs • Data An
 
 ---
 
-## 📊 GitHub Stats
-
-![Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-
----
 
 ## 📫 Connect with Me
 
-- 📧 Email: reda@example.com  
-- 💼 LinkedIn: [linkedin.com/in/reda](https://linkedin.com/in/reda)  
-- 🌐 Portfolio: reda.dev  
+- 📧 Email: reda.mezaga21@ump.ac.ma 
+- 💼 LinkedIn:https://www.linkedin.com/in/reda-mezaga-737552272/  
+
 
 ---
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
+
