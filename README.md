@@ -48,7 +48,8 @@ Embedded systems (Raspberry Pi, sensors, servos, RFID) • REST APIs • Data An
 
 [![Oracle Certified](https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F4FDB259CEE2BBDCFF00C8AA97071DA6D200DD8B2D01FC7C80D53FB2119CBD55)  
 [![FreeCodeCamp C#](https://img.shields.io/badge/FreeCodeCamp-C%23%20with%20Microsoft-blue?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/certification/fccb3a6e3c9-51c2-4de5-9a30-df4ccca81d0e/foundational-c-sharp-with-microsoft)  
-[![HackerRank Cert 1](https://img.shields.io/badge/HackerRank-Certificate-1-lightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/da011ec1b6b5)  
+[![HackerRank Cert 1](https://img.shields.io/badge/HackerRank-Python-lightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/da011ec1b6b5)
+
 [![HackerRank Cert 2](https://img.shields.io/badge/HackerRank-Certificate-2-lightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/009c8cafd961)  
 [![HackerRank Cert 3](https://img.shields.io/badge/HackerRank-Certificate-3-lightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/d4f5dd3ba679)  
 [![HackerRank Cert 4](https://img.shields.io/badge/HackerRank-Certificate-4-lightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/certificates/2597bd2da254)
