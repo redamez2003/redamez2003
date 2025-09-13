@@ -44,12 +44,18 @@ Embedded systems (Raspberry Pi, sensors, servos, RFID) • REST APIs • Data An
 
 ---
 
+## 🏅 Certifications
 
-## 📫 Connect with Me
-
-- 📧 Email: reda.mezaga21@ump.ac.ma 
-- 💼 LinkedIn:https://www.linkedin.com/in/reda-mezaga-737552272/  
-
+[![Oracle Certified](https://img.shields.io/badge/Oracle-Certified-red?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F4FDB259CEE2BBDCFF00C8AA97071DA6D200DD8B2D01FC7C80D53FB2119CBD55)  
+[![FreeCodeCamp C#](https://img.shields.io/badge/FreeCodeCamp-C%23%20with%20Microsoft-blue?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/certification/fccb3a6e3c9-51c2-4de5-9a30-df4ccca81d0e/foundational-c-sharp-with-microsoft)
 
 ---
 
+## 📫 Connect with Me
+
+- 📧 Email: reda.mezaga21@ump.ac.ma  
+- 💼 [LinkedIn](https://www.linkedin.com/in/reda-mezaga-737552272/)  
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
